@@ -472,3 +472,4 @@ write_xlsx(kraje, "kraje_wynik.xlsx")
  
 # Niestety każdy wykres trzeba zapisać ręcznie
 # nie ma funkcji do masowego eksportu wykresów.
+
